@@ -29,6 +29,12 @@
       "text": "qweerty",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "CV",
+      "day": "ad",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
